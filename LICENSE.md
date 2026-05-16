@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Trading Bot | volume-analysis + API-integration is the best Polymarket trading-bot, featuring volume-analysis and API-integration. Smart, fast, and optimized
 
 
 
